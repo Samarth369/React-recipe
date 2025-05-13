@@ -1,0 +1,9 @@
+.card {
+    border: 1px solid;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.card p {
+    margin: 5px 0px 0px 0px;
+}
