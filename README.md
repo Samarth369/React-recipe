@@ -2,6 +2,9 @@
 
 A simple and responsive recipe search application built with React. It allows users to search for recipes using keywords and view details like ingredients and images fetched from a theMealDB API.
 
+## 📸 Demo
+live - https://react-recipe-theta.vercel.app/
+
 ## 🚀 Features
 
 - 🔍 Search for recipes by keyword
@@ -15,10 +18,7 @@ A simple and responsive recipe search application built with React. It allows us
 - React.js (Functional Components & Hooks)
 - CSS / Styled Components
 - Edamam Recipe Search API (or any public recipe API)
-
-## 📸 Demo
-live - https://react-recipe-theta.vercel.app/
-
+  
 ## 📦 Installation
 
 Clone the repo and install dependencies:
